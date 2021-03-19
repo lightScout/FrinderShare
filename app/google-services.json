@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292541315247",
+    "project_id": "frindershare2",
+    "storage_bucket": "frindershare2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292541315247:android:7d51f3b69837936b2d7c5a",
+        "android_client_info": {
+          "package_name": "com.lightscout.frindershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292541315247-4d9q8i1ob7a95ettora1dtqg7kku44jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8LLXmweJijnX_d6-_IrGMBk-zc-mwHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292541315247-4d9q8i1ob7a95ettora1dtqg7kku44jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
